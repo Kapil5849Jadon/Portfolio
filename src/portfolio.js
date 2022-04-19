@@ -16,13 +16,13 @@ export const main = {
   name: "Kapil Jadon",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1GAbSF1MP_UIkYVnkJyjE4LSr6QymS_Aw/view?usp=sharing",
+    "https://drive.google.com/file/d/1ihML9BzgYP1dOe7ykHLEEh5KsAP2wwQQ/view?usp=sharing",
 };
 
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://media-exp1.licdn.com/dms/image/C4D03AQGu6eIvPSEvDA/profile-displayphoto-shrink_800_800/0/1644342633746?e=1652918400&v=beta&t=Qpw-TmPYx9CvbDX8Xr8-rFmSD6SNdfCzmgdHAEpCuTo",
+    "https://cdn-images-1.medium.com/max/1200/1*QJl1hOLut2qUyqNWgRrFFA.jpeg",
   p1: "Hey, My name is Kapil Jadon. I have completed my Bachelor in Arts from CCS University Meerut.",
   p2: "Dedicated and self motivated aspiring Full Stack Web Developer. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.",
   p3: "Apart from programming I like music, dancing & learning new technologies",
