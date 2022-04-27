@@ -179,7 +179,7 @@ export const details = [
     id: 4,
     title: "Uniqlo Clone",
     desc: `One of the world's largest apparel retail company offering clothing, shoes, and
-    accessories for men, women and kids. I was given a task to show all the details of the selected item by the user. `,
+    accessories for men, women and kids. I was given a task to show all the details of the selected item by the user. I created the display page of this website.`,
     feature: `Fixed Navbar, Product catalog with filtering, Remove item from Cart, Order history`,
     tech: `Tech Stack: HTML | CSS | JavaScript.`,
     img: "https://miro.medium.com/max/1400/1*fDZZzEj_0dXi_ARmyX0jgg.png",
@@ -189,7 +189,7 @@ export const details = [
   {
     id: 5,
     title: "Koovs Clone",
-    desc: `Koovs is an e-commerce webiste for apparels and footwears and a best fashion store of India. I was given a task to show all the details of the selected item by the user. `,
+    desc: `Koovs is an e-commerce webiste for apparels and footwears and a best fashion store of India. I was given a task to show all the details of the selected item by the user. I created the display page of this website. `,
     feature: `Sign-in/Sign-up User Authentication,
     Image slideshow in home page,Product catalog with filtering, Remove item from cart, Order history
     `,
