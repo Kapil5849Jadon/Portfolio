@@ -14,9 +14,9 @@ export const navbar_name = "kapil";
 // Main Page
 export const main = {
   name: "Kapil Jadon",
-  doamin: "A MERN Stack Web Developer",
+  doamin: "A full stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1ihML9BzgYP1dOe7ykHLEEh5KsAP2wwQQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1WlZlY6-tvVORaDe2DAcH949tyjYC2BvQ/view?usp=sharing",
 };
 
 // AboutMe
@@ -179,7 +179,7 @@ export const details = [
     id: 4,
     title: "Uniqlo Clone",
     desc: `One of the world's largest apparel retail company offering clothing, shoes, and
-    accessories for men, women and kids.`,
+    accessories for men, women and kids. I was given a task to show all the details of the selected item by the user. `,
     feature: `Fixed Navbar, Product catalog with filtering, Remove item from Cart, Order history`,
     tech: `Tech Stack: HTML | CSS | JavaScript.`,
     img: "https://miro.medium.com/max/1400/1*fDZZzEj_0dXi_ARmyX0jgg.png",
@@ -189,7 +189,7 @@ export const details = [
   {
     id: 5,
     title: "Koovs Clone",
-    desc: `Koovs is an e-commerce webiste for apparels and footwears and a best fashion store of India. `,
+    desc: `Koovs is an e-commerce webiste for apparels and footwears and a best fashion store of India. I was given a task to show all the details of the selected item by the user. `,
     feature: `Sign-in/Sign-up User Authentication,
     Image slideshow in home page,Product catalog with filtering, Remove item from cart, Order history
     `,
