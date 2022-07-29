@@ -24,8 +24,10 @@ export const aboutme = {
   imgLink:
     "https://cdn-images-1.medium.com/max/1200/1*QJl1hOLut2qUyqNWgRrFFA.jpeg",
   p1: "Hey, My name is Kapil Jadon. I have completed my Bachelor in Arts from CCS University Meerut.",
-  p2: "Dedicated and self motivated aspiring Full Stack Web Developer. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.",
-  p3: "Apart from programming I like music, dancing & learning new technologies",
+  p2: "I am a passionate Developer, with strong administrative and communication skills, good attention to details and the ability to write efficient code using MERN Stack",
+  p3: "As I grow and flourish as a Developer, one thing which keeps me going is my inquisitiveness for discovering new things every day.",
+  p4: "Fast forwarding to today, I built a number of web applications and some major projects. Learned a great deal about teamwork, leadership, and communication. I am able to translate business requirements into technical solutions. After months of rigorous training, here I am lookig for an opportunity as a full stack web Developer",
+  p5: "Apart from programming I like music, dancing & learning new technologies",
 };
 
 // export const education = {
