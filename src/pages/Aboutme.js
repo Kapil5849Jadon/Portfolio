@@ -29,6 +29,8 @@ function Aboutme() {
               <p>{aboutme.p1}</p>
               <p>{aboutme.p2}</p>
               <p>{aboutme.p3}</p>
+              <p>{aboutme.p4}</p>
+              <p>{aboutme.p5}</p>
             </div>
           </Fade>
         </div>
