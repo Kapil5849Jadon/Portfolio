@@ -16,7 +16,7 @@ export const main = {
   name: "Kapil Jadon",
   doamin: "A full stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1WlZlY6-tvVORaDe2DAcH949tyjYC2BvQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1H-EX7pw9c8CRYgaiLDgBZjiQtHuopd3J/view?usp=sharing",
 };
 
 // AboutMe
