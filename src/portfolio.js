@@ -212,6 +212,20 @@ latest gadgets slider`,
     link: "https://redmi-store.vercel.app/",
     github: "https://github.com/Kapil5849Jadon/Redmi-store",
   },
+
+  {
+    id: 7,
+    title: "Golds Gym",
+    desc: `This is a fitness app which shows you multi type exercises to keep fit you. It also helps you through video tutorial.`,
+    feature: `Multi body parts exercise,
+Exercise gifs are available for the demo,
+Videos are available for the exercise`,
+    tech: `Tech Stack: HTML | CSS | JavaScript | ReactJS`,
+    img: "https://cdn-images-1.medium.com/max/1200/1*GfOwGvl0Lrb8XO-ZTWQJzg.png",
+    link: "https://fitness-app-one.vercel.app/",
+    github: "https://github.com/Kapil5849Jadon/Fitness_App",
+  },
+
 ];
 
 // Social Media Links
