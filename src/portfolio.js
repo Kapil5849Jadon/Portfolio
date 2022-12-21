@@ -201,17 +201,17 @@ export const details = [
     github: "https://github.com/Kapil5849Jadon/Koovs-Web-Clone",
     link: "https://kapiljadon5849-koovs-clone.netlify.app",
   },
-//   {
-//     id: 6,
-//     title: "My Recipe App",
-//     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
-//     feature: `Search recipe,
-// Recipe of the day.`,
-//     tech: `Tech Stack: HTML | CSS | JavaScript`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
-//     link: "https://condescending-pare-f88022.netlify.app/",
-//     github: "https://github.com/avinashkumarkml/Food-app-main",
-//   },
+  {
+    id: 6,
+    title: "Mi Store",
+    desc: `This is the clone of Mi-Store a Chinese company which sales the mobile, TV, Laptops and other accessories.`,
+    feature: `All new accesories,
+latest gadgets slider`,
+    tech: `Tech Stack: HTML | CSS | JavaScript | ReactJS`,
+    img: "blob:https://medium.com/6c5e213f-61b1-45f7-9df7-e0d7eb16cb43",
+    link: "https://redmi-store.vercel.app/",
+    github: "https://github.com/Kapil5849Jadon/Redmi-store",
+  },
 ];
 
 // Social Media Links
