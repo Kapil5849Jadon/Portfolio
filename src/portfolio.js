@@ -208,7 +208,7 @@ export const details = [
     feature: `All new accesories,
 latest gadgets slider`,
     tech: `Tech Stack: HTML | CSS | JavaScript | ReactJS`,
-    img: "blob:https://medium.com/6c5e213f-61b1-45f7-9df7-e0d7eb16cb43",
+    img: "https://miro.medium.com/max/1400/1*ZjfkBy6-CKKTX_jFE4oHTg.webp",
     link: "https://redmi-store.vercel.app/",
     github: "https://github.com/Kapil5849Jadon/Redmi-store",
   },
